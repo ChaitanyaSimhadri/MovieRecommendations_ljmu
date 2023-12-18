@@ -1,6 +1,0 @@
-pandas
-numpy
-Django
-nltk
-scikit-learn
-requests
