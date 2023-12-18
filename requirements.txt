@@ -1,0 +1,9 @@
+pandas
+numpy
+Django
+nltk
+scikit-learn
+requests
+dill
+pickle
+-e .
